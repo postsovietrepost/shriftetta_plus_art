@@ -96,21 +96,54 @@ width: 100%;
   top: 0; bottom: 0; left: 0; right: 0; padding: 0;
   background: white;
 }
-
-#textbase1 {
-  width: 100%;
-  font-size: 33px;
-  line-height: 51px;
-  position: absolute;
-  top: 1.52%;
-  color: black;
-  font-family: "Baskerville";
-  font-style: normal;
+/* TEXT BASE */
+#textbase1, #textbase2 {
+width: 100%;
+font-size: 32px;
+line-height: 51px;
+position: absolute;
+color: black;
+font-family: "Baskerville";
+font-style: normal;
 }
 
 #textbase1 {
-  left: 2%;
+left: 2%;
+top: 1.52%;
 }
+
+#textbase2 {
+left: 39%;
+top: 15%;
+}
+
+#sh {
+width: 100%;
+font-size: 138px;
+line-height: 194px;
+position: absolute;
+top: 7.52%;
+left: 21%;
+color: black;
+font-family: "Troover";
+font-style: normal;
+}
+
+#ii {
+width: 100%;
+position: absolute;
+font-size: 168px;
+line-height: 212px;
+font-family: "Snell Roundhand";
+font-style: italic;
+font-weight: bold;
+color: black;
+top: 7.52%;
+left: 21%;
+}
+
+
+
 /* #title1 {
   left: 4.3%;
   width: 20%;
