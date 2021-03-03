@@ -1,0 +1,117 @@
+@import "reset.css";
+@import "responsive.css";
+
+@font-face {
+  font-family: "Baskerville";
+  font-weight: normal;
+  src: url(../fonts/BaskervilleCyrillicUpright.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "Troover";
+  font-weight: normal;
+  src: url(../fonts/TrooverRoman.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "OfficinaSerif";
+  font-weight: italic;
+  src: url(../fonts/OfficinaSerifBookItalic.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "SnellRoundhand";
+  font-weight: bold;
+  src: url(../fonts/SnellRoundhand.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "Rassvet";
+  font-weight: normal;
+  src: url(../fonts/Rassvet.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: "Swordsman";
+  font-weight: normal;
+  src: url(../fonts/SPSLSwordsman.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "UnicumCondLight";
+  font-weight: normal;
+  src: url(../fonts/UnicumCondLight.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "Secession";
+  font-weight: bold;
+  src: url(../fonts/SecessionBold.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "Luxor";
+  font-weight: normal;
+  src: url(../fonts/Luxor.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "SonetSerif";
+  font-weight: italic;
+  src: url(../fonts/SonetSerifItalic.otf) format('opentype');
+}
+
+body {
+  overflow-x: hidden;
+  width: 100%;
+  margin: 0;
+}
+
+html {
+width: 100%;
+height: 100%;
+overflow-x: hidden;
+background-color: white;
+}
+
+img {
+position: absolute;
+width: 100%;
+}
+
+.wrapper {
+  position: relative;
+  width: 100%;
+  background: white;
+}
+
+.sootnosheniye {
+  position: relative;
+  padding-bottom: 219.285714%;
+  background: white;
+}
+
+.content {
+  position: absolute;
+  top: 0; bottom: 0; left: 0; right: 0; padding: 0;
+  background: white;
+}
+
+#textbase1 {
+  width: 100%;
+  font-size: 33px;
+  line-height: 51px;
+  position: absolute;
+  top: 1.52%;
+  color: black;
+  font-family: "Baskerville";
+  font-style: normal;
+}
+
+#textbase1 {
+  left: 2%;
+}
+/* #title1 {
+  left: 4.3%;
+  width: 20%;
+} */
