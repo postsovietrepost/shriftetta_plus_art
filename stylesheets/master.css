@@ -515,6 +515,10 @@ border: 3px solid #519F75;
 border-radius: 100%;
 }
 
+.stroke_ball3:hover {
+background-color: #F8EA70;
+}
+
 #blackcrescent {
 position: relative;
 width: 3%;
