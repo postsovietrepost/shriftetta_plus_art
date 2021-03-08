@@ -595,13 +595,19 @@ animation-play-state: running;
 }
 
 #voronoileft {
-position: relative;
-width: 38%;
-height: 73%;
-left: 0.7%;
-top: -24%;
+  position: relative;
+  mask-type: alpha;
+  width: 690px;
+  height: 835px;
+  left: -1.3%;
+  top: -24%;
 overflow: hidden;
 background-size: cover;
+-webkit-mask: url(https://postsovietrepost.github.io/shriftetta_plus_art/images/voronoileft.svg);
+}
+
+#voronoileft:hover{
+  background: url(https://postsovietrepost.github.io/shriftetta_plus_art/js/voronoi.js);
 }
 
 #voronoicenter {
@@ -1246,4 +1252,22 @@ animation: filter-animation2 2s infinite;
   100% {
     filter:invert(6);
   }
+}
+
+circle {
+stroke: #EFEDF5;
+fill: #EFEDF5;
+pointer-events: none;
+}
+
+line {
+pointer-events: none;
+stroke: #EFEDF5;
+stroke-width: 2px;
+opacity: .05;
+}
+
+path{
+stroke: #EFEDF5;
+stroke-width: 4px;
 }
