@@ -19,7 +19,7 @@ $(document).ready(function(){
           $(this).data('status', true);
         }
         else {
-          $(this).add($('#sh'));
+          $(this).html($('#sh'));
           $(this).data('status', false);
         }
       });
