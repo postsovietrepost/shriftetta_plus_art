@@ -197,13 +197,26 @@ left: 3%;
 top: 77.5%;
 }
 
-#sh {
+.sh{
 width: 100%;
 font-size: 180px;
 line-height: 194px;
 position: absolute;
-top: 22.52%;
-left: 16%;
+top: 17.52%;
+left: 8%;
+color: black;
+font-family: "Troover";
+font-style: normal;
+}
+
+
+.shtxt {
+width: 100%;
+font-size: 180px;
+line-height: 194px;
+position: absolute;
+top: 17.52%;
+left: 8%;
 color: black;
 font-family: "Troover";
 font-style: normal;
