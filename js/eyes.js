@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $(".third_third").mousemove(function(event) {
-      let eye = $("#eyesbase_circle, #eyesbase_circle1, #eyesbase_circle2, #eyesbase_circle3, #eyesbase_circle4, #eyesbase_circle5");
+      let eye = $("#eyesbase_circle2, #eyes_white1, #eyes_white2, #eyes_white3, #eyes_white4, #eyesbase_circle3, #eyesbase_circle4, #eyesbase_circle5, #eyesbase_circle, #eyes_white");
       let x = (eye.offset().left) + (eye.width() / 2);
       let y = (eye.offset().top) + (eye.height() / 2);
       let rad = Math.atan2(event.pageX - x, event.pageY - y);
