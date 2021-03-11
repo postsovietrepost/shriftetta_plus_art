@@ -11,6 +11,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="stylesheets/master.css">
     <title>Шрифтетта + Арт</title>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="js\jquery-3.5.1.js" charset="utf-8"></script>
      <script src="js\fittext.js" charset="utf-8"></script>
@@ -18,10 +19,6 @@
     <script src="js\eyes.js" charset="utf-8"></script>
     <script src="js\filter.js" charset="utf-8"></script>
     <script src="js\character.js" charset="utf-8"></script>
-
-
-
-
 
 
     <style media="screen">
@@ -37,19 +34,28 @@
 <p id="textbase1">мы — &nbsp&nbsp <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspсупер</p>
 
 <div class="sh">
-  <img class="shcartinka" src="https://psv4.userapi.com/c520036/u509127371/docs/d27/f91d7da31025/shpicture.png?extra=bIwUcNjTSj5gcKnfw6RIrhS6-hN4TWQJZyBo8jtp_eLf8OS7P_fZFdv9T4eOPLOhADP8RfCv-mRyNlWLpo14uCxaSvtIh3UO48IJrjz3VTODO9B9_srqmXp8fM9EKr-XRfkdBIYY0pOpJO2eTxoysMv9Wg" alt="" style="visibility: hidden;">
+  <img class="shcartinka" src="images/shpicture.png" alt="" style="visibility: hidden;">
 <p class="shtxt" style="visibility: visible;">Ш</p>
 </div>
 
-<div class="">
-
+<div class="ii">
+<img class="iicartinka" src="images/iipicture.png" alt="" style="visibility: hidden; margin-top: 18%; margin-left: -3%;background-size: cover;width: 12%;">
+<p class="iitxt" style="visibility: visible;">и</p>
 </div>
 
 <p id="textbase2">потому что<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspможем</p>
-<p id="ii">и</p>
 <p id="textbase3">(нет?)</p>
-<p id="f">Ф</p>
-<p id="r">Р</p>
+
+<div class="f">
+<img class="fcartinka" src="images/fpicture.png" alt="" style="visibility: hidden; margin-left: 84%;margin-top: 3%;">
+<p class="ftxt" style="visibility: visible;">Ф</p>
+</div>
+
+<div class="r">
+<img class="rcartinka" src="images/rpicture.png" alt="" style="visibility: hidden;margin-top: 17%;background-size: cover;width: 14%;">
+<p class="rtxt" style="margin-top: -31%;margin-left: -1%;">Р</p>
+</div>
+
 <p id="textbase11">(уверены!)</p>
 <div class="ramka1ball"></div>
 <div class="ramka1ball1"></div>
@@ -63,13 +69,25 @@
 <img id="ramka1" src="images/ramka1.svg" alt="">
 <img id="strokeright" src="images/strokeright.svg" alt="">
 <img id="blackcrescent" src="images/blackcrescent.svg" alt="">
-<img id="voronoicenter" src="images/voronoicenter.svg" alt="">
+<svg id="voronoicenter" viewBox="0 0 634 725" fill="white" xmlns="http://www.w3.org/2000/svg" alt="">
+<path d="M204.602 353.754C151.635 347.762 121.483 368.618 82.9008 407.105C71.6643 418.314 62.8334 431.088 52.1199 447.942C38.3695 469.573 22.751 506.639 22.751 506.639C22.751 506.639 8.36092 541.845 30.5885 553.951C53.31 566.326 100.463 531.874 100.463 531.874C100.463 531.874 152.337 493.638 187.124 483.248C218.678 473.824 285.434 533.583 285.434 533.583C285.434 533.583 339.677 592.092 371.769 598.576C420.808 608.484 416.921 578.298 414.953 538.641C411.601 471.079 351.431 387.846 412.825 330.635C428.173 316.333 440.719 308.528 458.576 297.652C492.357 277.077 540.501 245.518 540.501 245.518C540.501 245.518 591.572 205.619 583.06 179.02C577.639 162.079 567.313 152.765 552.205 143.377C468.489 91.3583 336.728 137.567 319.193 253.488C313.849 288.813 326.642 355.346 296.531 380.779C276.003 398.118 226.678 356.252 204.602 353.754Z" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
 <img id="yellowball" src="images/yellowball.svg" alt="">
 </div>
 
 <div class="second_third">
-<p id="t1">Т</p>
-<p id="e">е</p>
+
+<div class="t1">
+<img class="t1cartinka" src="images/t1picture.png" alt="" style="visibility: hidden;margin-left: -4%;margin-top: 5%;">
+<p class="t1txt" style="margin-top: -18%;margin-left: 1%;">Т</p>
+</div>
+
+<div class="e">
+<img class="ecartinka" src="images/epicture.png" alt="" style="visibility: hidden;margin-top: 14%;">
+<p class="etxt" style="margin-top: -14%;margin-left: 2%;">е</p>
+</div>
+
+
 <p id="textbase4">— мы<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspхотим помочь</p>
 <p id="textbase5">вам стать<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspкруче (!!!) </p>
 <p id="textbase6">поэтому</p>
@@ -106,11 +124,19 @@
 
 <div class="third_third">
 <p id="textbase7">«шрифтетта» открывает<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspновый курс</p>
-<p id="t2">Т</p>
-<p id="t3">Т</p>
+
+<div class="t2">
+<img class="t2cartinka" src="images/t2picture.png" alt="" style="visibility: hidden;margin-left: 37%;margin-top: -0.3%;">
+<p class="t2txt" style="margin-left: 41%;margin-top: -13%;">Т</p>
+</div>
+
+<div class="t3">
+<img class="t3cartinka" src="images/t3picture.png" alt="" style="visibility: hidden;margin-top: 0%;margin-left: -4%;">
+<p class="t3txt" style="margin-top: -14%;">Т</p>
+</div>
+
 <p id="textbase8">лекций по<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspтипографике</p>
 <p id="textbase9">присоединяйся!</p>
-<p id="a">А</p>
 
 <img id="star3" src="images/star3.svg" alt="">
 <img id="voronoibottom" src="images/voronoibottom.svg" alt="">
@@ -125,10 +151,15 @@
 <img class="circle_bottom" src="images/circlebottom.svg" alt="">
 
 <div id="eyesbase_circle"></div>
+<div id="eyes_white"></div>
 <div id="eyesbase_circle2"></div>
+<div id="eyes_white1"></div>
 <div id="eyesbase_circle3"></div>
+<div id="eyes_white2"></div>
 <div id="eyesbase_circle4"></div>
+<div id="eyes_white3"></div>
 <div id="eyesbase_circle5"></div>
+<div id="eyes_white4"></div>
 <div class="fourstarcircle"></div>
 
 <div class="sbl1"></div>
@@ -136,6 +167,12 @@
 </div>
 
 <div class="footer">
+
+  <div class="a">
+  <img class="acartinka" src="images/apicture.png" alt="" style="visibility: hidden;margin-top: -1%;">
+  <p class="atxt" style="margin-top: -12%;">А</p>
+  </div>
+
   <div class="fourstarcircle1"></div>
   <div class="sbb2"></div>
   <div class="sbb3"></div>
@@ -160,5 +197,13 @@
 </div>
 </div>
 </div>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+$(document).ready(function(){
+$( "#voronoicenter" ).draggable();
+} );
+</script>
+
   </body>
 </html>
