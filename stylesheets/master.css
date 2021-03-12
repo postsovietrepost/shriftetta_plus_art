@@ -302,6 +302,11 @@ left: 84%;
       left: 37%;
 }
 
+.rtxt {
+margin-top: -31%;
+margin-left: -1%;
+}
+
 .r:hover {
 color: #EA1C1C;
 }
@@ -316,6 +321,11 @@ font-style: normal;
 color: black;
 top: 12%;
 left: 46%;
+}
+
+.t1txt {
+margin-top: -16%;
+margin-left: 0.3%;
 }
 
 .t1:hover {
@@ -351,6 +361,16 @@ top: 3%;
 left: 41.5%;
 }
 
+.t2cartinka {
+margin-left: 37%;
+margin-top: -0.3%;
+}
+
+.t2txt {
+margin-left: 41%;
+margin-top: -11.7%;
+}
+
 .t2:hover {
 color: #EA1C1C;
 }
@@ -371,6 +391,15 @@ left: 16%;
 color: #EA1C1C;
 }
 
+.t3txt {
+margin-top: -14%;
+}
+
+.t3cartinka {
+margin-top: 0%;
+margin-left: -4%;
+}
+
 .a {
 width: 100%;
 position: absolute;
@@ -384,7 +413,7 @@ left: 77%;
 }
 
 .atxt {
-margin-top: -12%;
+  margin-top: -12%;
 }
 
 .a:hover {
