@@ -216,6 +216,9 @@ font-family: "Troover";
 font-style: normal;
 }
 
+.shtxt:hover {
+color: #EA1C1C;
+}
 
 .shtxt {
 width: 100%;
@@ -240,6 +243,10 @@ font-weight: bold;
 color: black;
 top: -15%;
 left: 67%;
+}
+
+.iitxt:hover {
+color: #EA1C1C;
 }
 
 .iitxt {
@@ -267,6 +274,10 @@ top: 42%;
 left: 0%;
 }
 
+.ftxt:hover {
+color: #EA1C1C;
+}
+
 .ftxt {
 width: 100%;
 position: absolute;
@@ -291,6 +302,10 @@ left: 84%;
       left: 37%;
 }
 
+.r:hover {
+color: #EA1C1C;
+}
+
 .t1 {
 width: 100%;
 position: absolute;
@@ -303,8 +318,12 @@ top: 12%;
 left: 46%;
 }
 
+.t1:hover {
+color: #EA1C1C;
+}
+
 .e {
-width: 100%;
+width: 15%;
 position: absolute;
 font-size: 147px;
 line-height: 172px;
@@ -313,6 +332,10 @@ font-style: normal;
 color: black;
 top: 58%;
 left: 26%;
+}
+
+.e:hover {
+color: #EA1C1C;
 }
 
 .t2 {
@@ -328,6 +351,10 @@ top: 3%;
 left: 41.5%;
 }
 
+.t2:hover {
+color: #EA1C1C;
+}
+
 .t3 {
 width: 100%;
 position: absolute;
@@ -340,6 +367,10 @@ top: 36%;
 left: 16%;
 }
 
+.t3:hover {
+color: #EA1C1C;
+}
+
 .a {
 width: 100%;
 position: absolute;
@@ -350,6 +381,18 @@ font-style: italic;
 color: black;
 top: -7.5%;
 left: 77%;
+}
+
+.atxt {
+margin-top: -12%;
+}
+
+.a:hover {
+color: #EA1C1C;
+}
+
+.acartinka {
+visibility: hidden;margin-top: -1%;
 }
 
 #footertext1, #footertext2, #footertext3, #footertext4, #footertext5, #footertext6 {
@@ -649,7 +692,7 @@ background-size: cover;
 }
 
 .voronoileft:hover{
-
+transform: scale(0.8);
 }
 
 #voronoicenter {
@@ -662,7 +705,7 @@ background-size: cover;
 }
 
 #voronoicenter:hover {
-transform: scale(0.5);
+transform: scale(0.8);
 }
 
 #star2 {
@@ -756,6 +799,10 @@ height: 63%;
 left: 15.7%;
 top: -24%;
 background-size: cover;
+}
+
+#voronoiright:hover {
+transform: scale(0.8);
 }
 
 #strokecentral {
@@ -856,6 +903,10 @@ height: 56%;
 left: 26.7%;
 top: -5%;
 background-size: cover;
+}
+
+#voronoibottom:hover{
+  transform: scale(0.8);
 }
 
 .arrowcircle1 {
