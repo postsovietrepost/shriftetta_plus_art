@@ -232,6 +232,12 @@ font-family: "Troover";
 font-style: normal;
 }
 
+.shcartinka {
+visibility: hidden;
+background-size: cover;
+width: 24%;
+margin-left: 2.7%;}
+
 .ii {
 width: 100%;
 position: absolute;
@@ -262,6 +268,14 @@ top: 46%;
 left: 0%;
 }
 
+.iicartinka {
+visibility: hidden;
+margin-top: 18%;
+margin-left: -3%;
+background-size: cover;
+width: 12%;
+}
+
 .f {
 width: 100%;
 position: absolute;
@@ -276,6 +290,14 @@ left: 0%;
 
 .ftxt:hover {
 color: #EA1C1C;
+}
+
+.fcartinka {
+visibility: hidden;
+margin-left: 84%;
+margin-top: 2%;
+background-size: cover;
+width: 7%;
 }
 
 .ftxt {
@@ -311,6 +333,13 @@ margin-left: -1%;
 color: #EA1C1C;
 }
 
+.rcartinka {
+visibility: hidden;
+margin-top: 17%;
+background-size: cover;
+width: 14%;
+}
+
 .t1 {
 width: 100%;
 position: absolute;
@@ -330,6 +359,12 @@ margin-left: 0.3%;
 
 .t1:hover {
 color: #EA1C1C;
+}
+
+.t1cartinka {
+visibility: hidden;
+margin-left: -4%;
+margin-top:2%;
 }
 
 .e {
@@ -1225,7 +1260,6 @@ bottom: 102%;
 background-size: cover;
 animation: bcan 2s steps(5) infinite;
 animation-play-state: paused;
-cursor: url("https://github.com/postsovietrepost/shriftetta_plus_art/images/cursor1.svg"), auto;
 
 }
 
@@ -1364,7 +1398,7 @@ transform: rotate(-180deg);
 
 
 #yellowball, #blackcrescent, #star1, #star2, #star3, #eyefp, #eyefp2, .ramka2qvadrat, .arrowcircle3, #arrowsmall1, #arrowsmall2, #arrowsmall3, #greencrescent, .sbb1, .circle_bottom, .fourstarcircle, .fourstarcircle1, .sbb2, .sbb3, .sbb4, .sbb5, .sbb6, .ramka1ball, .ramka1ball1 {
-  cursor: url("https://psv4.userapi.com/c536436/u509127371/docs/d38/2981139583f9/cursor2.png?extra=NDzIHgqKnYxFVOMIebYRygtYKNhWuKtOG8Zjbp6bf0eyhGHAzqulldhTcK9ZcoCzi8OS5ZbJnBjqSwi5b7dY6DbATf0cQjK4P8jMs__Z1wLYLrc7RoiWp6L18LNSjU9OffoXAns-_6hELQgITevA_g2LPA"), auto;
+  cursor: url("https://psv4.userapi.com/c534536/u509127371/docs/d51/91f0c32e3a00/cursor2.png?extra=zNLd0LUtMNU0DMDYxparHypIyDN7p-k-EyacaapCt7yvlDhad6f4LdvUFD_UguKfy8wx8z2H80HOyMB9ZPpH9TjUqkSYZQ87BAlITnKYM_w2RN0H2Ky5KVSAVlF8Ljc1KNU8OXXdl2ZS0zDtkTn26YCtog"), auto;
 }
 
 .sbc1, .sbc2, .sbc3, .sbc4, .sbc5, .sbc6 {
@@ -1372,7 +1406,7 @@ transform: rotate(-180deg);
 }
 
 .voronoileft, #voronoicenter, #voronoiright, #voronoibottom {
-  cursor: url("https://psv4.userapi.com/c536132/u509127371/docs/d7/8e322e1508b2/cursor.png?extra=jkCCMOFBOwW5PWWs_PqZ53CyAXNmC7YEih7PBpkC8CpcQZnyB8mWXtuOx7-IBuXZ7Pj0Pz-TV4BdD3_TJKbIsH4UpUwmLulHt7VNx0VwRqy5mj9SiLQSmQjFDsvCA6f7n8q0j381KvqUar9KhqGZ0ZjmMg"), auto;
+  cursor: url("https://psv4.userapi.com/c534536/u509127371/docs/d6/f1443af8b08d/cursor1.png?extra=uFRzuwaoZLIfekcfhrwwr1AV5XmXwR5azskdXhyEnTMMWdqRslN2WMaBxf8RnuHWv_OpsYXhiu5sQdXHDxE4lDNJYjC6sgagcu2j_282rUtagCtQhDr2nJPdWVk7biA8VOUqHblbiwSxL9Ih4HJCjFwNZw"), auto;
 }
 
 body.animated1 {
