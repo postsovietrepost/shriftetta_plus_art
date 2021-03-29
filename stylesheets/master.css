@@ -383,6 +383,18 @@ left: 26%;
 color: #EA1C1C;
 }
 
+.ecartinka {
+visibility: hidden;
+margin-top: 93%;
+background-size: cover;
+width: 45%;
+}
+
+.etxt {
+margin-top: -84%;
+margin-left: 11%;
+}
+
 .t2 {
 width: 100%;
 position: absolute;
@@ -457,6 +469,7 @@ color: #EA1C1C;
 
 .acartinka {
 visibility: hidden;margin-top: -1%;
+background-size: cover;
 }
 
 #footertext1, #footertext2, #footertext3, #footertext4, #footertext5, #footertext6 {
