@@ -1410,16 +1410,16 @@ transform: rotate(-180deg);
 }
 
 
-#yellowball, #blackcrescent, #star1, #star2, #star3, #eyefp, #eyefp2, .ramka2qvadrat, .arrowcircle3, #arrowsmall1, #arrowsmall2, #arrowsmall3, #greencrescent, .sbb1, .circle_bottom, .fourstarcircle, .fourstarcircle1, .sbb2, .sbb3, .sbb4, .sbb5, .sbb6, .ramka1ball, .ramka1ball1 {
-  cursor: url("https://psv4.userapi.com/c534536/u509127371/docs/d51/91f0c32e3a00/cursor2.png?extra=zNLd0LUtMNU0DMDYxparHypIyDN7p-k-EyacaapCt7yvlDhad6f4LdvUFD_UguKfy8wx8z2H80HOyMB9ZPpH9TjUqkSYZQ87BAlITnKYM_w2RN0H2Ky5KVSAVlF8Ljc1KNU8OXXdl2ZS0zDtkTn26YCtog"), auto;
+#yellowball, #blackcrescent, #star1, #star2, #star3, #eyefp, #eyefp2, .ramka2qvadrat, .arrowcircle3, #arrowsmall1, #arrowsmall2, #arrowsmall3, #greencrescent, .sbb1, .circle_bottom, .ramka1ball, .ramka1ball1 {
+  cursor: url("https://raw.githubusercontent.com/postsovietrepost/shriftetta_plus_art/master/images/cursor2.png"), auto;
 }
 
-.sbc1, .sbc2, .sbc3, .sbc4, .sbc5, .sbc6 {
+.fourstarcircle, .fourstarcircle1, .sbb2, .sbb3, .sbb4, .sbb5, .sbb6, .sbc1, .sbc2, .sbc3, .sbc4, .sbc5, .sbc6 {
   cursor: pointer;
 }
 
 .voronoileft, #voronoicenter, #voronoiright, #voronoibottom {
-  cursor: url("https://psv4.userapi.com/c534536/u509127371/docs/d6/f1443af8b08d/cursor1.png?extra=uFRzuwaoZLIfekcfhrwwr1AV5XmXwR5azskdXhyEnTMMWdqRslN2WMaBxf8RnuHWv_OpsYXhiu5sQdXHDxE4lDNJYjC6sgagcu2j_282rUtagCtQhDr2nJPdWVk7biA8VOUqHblbiwSxL9Ih4HJCjFwNZw"), auto;
+  cursor: url("https://raw.githubusercontent.com/postsovietrepost/shriftetta_plus_art/master/images/cursor1.png"), auto;
 }
 
 body.animated1 {
