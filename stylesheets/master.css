@@ -1414,7 +1414,7 @@ transform: rotate(-180deg);
   cursor: url("https://raw.githubusercontent.com/postsovietrepost/shriftetta_plus_art/master/images/cursor2.png"), auto;
 }
 
-.fourstarcircle, .fourstarcircle1, .sbb2, .sbb3, .sbb4, .sbb5, .sbb6, .sbc1, .sbc2, .sbc3, .sbc4, .sbc5, .sbc6 {
+.fourstarcircle, .fourstarcircle1, .sbb2, .sbb3, .sbb4, .sbb5, .sbb6, .sbc1, .sbc2, .sbc3, .sbc4, .sbc5, .sbc6, .stroke_ball, .stroke_ball2 {
   cursor: pointer;
 }
 
