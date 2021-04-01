@@ -5,10 +5,59 @@
 .ramka1ball1 {top: 2.4%;}
 }
 
-@media all and (max-width: 1680px)and (min-width:1050px){
+@media all and (max-width: 1680px){
 .atxt {margin-top: -12.5%;margin-left: -1%;}
-
 }
+
+@media all and (max-width: 1470px) and (min-width: 1424px){
+  .sbl1 {bottom: 174.5%;}
+  .ramka2qvadrat {margin-left: 57%;margin-top: -79.9%;}
+  .atxt {margin-top: -15.7%;}
+  #footertext1, #footertext2, #footertext3, #footertext4, #footertext5, #footertext6 {font-size: 21px;}
+  #qvadrat1 {margin-top: 8.5%;}
+  .sbb1 {bottom: 113.6%;}
+  #textbase1, #textbase2, #textbase3, #textbase4, #textbase5, #textbase6, #textbase7, #textbase8, #textbase9, #textbase10, #textbase11 {font-size: 32px;}
+  #ramka1 {bottom: 57.4%;}
+  .fourstarcircle {top: -93%;}
+
+  #eyesbase_circle3 {left: 48.55%;top: -110.5%;}
+  #eyes_white2 {left: 48.87%;top: -111.8%;}
+  #eyesbase_circle4 {top: -108.3%;}
+  #eyes_white3 {top: -109.6%;}
+  #eyesbase_circle {top: -106.2%;}
+  #eyes_white {top: -107.5%;}
+  #eyesbase_circle5 {top: -111.5%;}
+  #eyes_white4 {left: 46.77%;top: -112.8%;}
+  #eyesbase_circle2 {left: 47.3%;top: -97.4%;}
+  #eyes_white1 {left: 47.6%;top: -98.7%;}
+}
+
+
+
+@media all and (max-width: 1465px)and (min-width:1441px){
+.sbl1 {bottom: 174.5%;}
+.ramka2qvadrat {margin-left: 57%;margin-top: -79.9%;}
+.atxt {margin-top: -15.7%;}
+#footertext1, #footertext2, #footertext3, #footertext4, #footertext5, #footertext6 {font-size: 21px;}
+#qvadrat1 {margin-top: 7.9%;}
+.sbb1 {bottom: 113.6%;}
+#textbase1, #textbase2, #textbase3, #textbase4, #textbase5, #textbase6, #textbase7, #textbase8, #textbase9, #textbase10, #textbase11 {font-size: 32px;}
+#ramka1 {bottom: 57.4%;}
+.fourstarcircle {top: -93%;}
+
+#eyesbase_circle3 {left: 48.55%;top: -110.5%;}
+#eyes_white2 {left: 48.87%;top: -111.8%;}
+#eyesbase_circle4 {top: -108.3%;}
+#eyes_white3 {top: -109.6%;}
+#eyesbase_circle {top: -106.2%;}
+#eyes_white {top: -107.5%;}
+#eyesbase_circle5 {top: -111.5%;}
+#eyes_white4 {left: 46.77%;top: -112.8%;}
+#eyesbase_circle2 {left: 47.3%;top: -97.4%;}
+#eyes_white1 {left: 47.6%;top: -98.7%;}
+}
+
+
 @media all and (max-width: 1440px) and (min-width:900px){
 .ramka2qvadrat {margin-left: 56.99%;margin-top: -79.9%;}
 .arrowcircle3 {top: -94.4%;}
