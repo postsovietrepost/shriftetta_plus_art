@@ -2,7 +2,7 @@
 .atxt {margin-top: -11.5%;margin-left: -0.5%;}
 .acartinka {margin-top: 0%;margin-left: -1%;}
 .t3txt {margin-top: -12%;}
-/* #arrowsmall2 {top: -86.4%;} */
+.ramka1ball1 {top: 2.4%;}
 }
 
 @media all and (max-width: 1680px)and (min-width:1050px){
@@ -695,109 +695,101 @@
 
 
 @media all and (max-width: 340px){
-#textbase1, #textbase2, #textbase3, #textbase4, #textbase5, #textbase6, #textbase7, #textbase8, #textbase9, #textbase10, #textbase11 {font-size: 11px;width: 45%;line-height: 30px;}
-#textbase7 {top: 29.2%;}
-#textbase6 {left: 12.5%;top: 66.5%;}
-.shtxt {font-size: 40px;top: -23.48%;left: 13%;}
-.shcartinka {width: 20%;margin-left: 8.5%;margin-bottom: 4%;}
-#ramka1 {left: 26.8%;bottom: 58.3%;}
-.ramka1ball {left: 44.6%;top: 6.8%;}
-.stroke_ball {border: 1px solid #C4929D;left: 85.6%;top: 2.3%;}
-.stroke_ball2 {border: 1px solid #4078A7;left: 96.5%;top: 18.7%;}
-.stroke_ball3 {border: 1px solid #519F75;}
+#textbase1, #textbase2, #textbase3, #textbase4, #textbase5, #textbase6, #textbase7, #textbase8, #textbase9, #textbase10, #textbase11 {font-size: 10px;width: 65%;line-height: 15px;}
+#textbase7 {top: 36.5%;left: 5%;}
+#textbase1 {left: 4%;top: 6.52%;}
+#textbase2 {top: 46%;left: 42%;}
+#textbase6 {left: 12%;top: 74.6%;}
+#textbase3 {left: 82%;top: 45%;}
+#textbase4 {left: 15%;top: 45.5%;}
+#textbase11 {left: 14%;top: 73.5%;}
+.shtxt {font-size: 45px;top: -28.48%;left: 15%;}
+.shcartinka {width: 20%;margin-left: 11.5%;margin-bottom: 28%;}
+#ramka1, .ramka1ball, .ramka1ball1 {display: none;}
+#strokeright {left: 64%;bottom: 44.9%;}
+.stroke_ball {border: 1px solid #C4929D;left: 82.7%;top: 8.5%;}
+.stroke_ball2 {border: 1px solid #4078A7;left: 93.6%;top: 25.8%;}
+.stroke_ball3 {border: 1px solid #519F75;left: 84.1%;top: 10.4%;}
 .stroke_ball, .stroke_ball2, .stroke_ball3 {width: 1.25%;height: 1.85%;}
-#blackcrescent {width: 2%;height: 3%;bottom: 47.1%;left: 43.7%;}
-#voronoicenter {width: 31%;left: 6.9%;top: 18%;}
-#yellowball {height: 11%;left: -0.3%;top: 14%;}
+#blackcrescent {width: 3%;height: 3%;bottom: 40.1%;left: 53.7%;}
+#textbase11 {left: 15%;top: 74.5%;}
+#voronoicenter {width: 30%;left: 19.9%;top: 38%;}
+#yellowball {height: 9%;left: 11.7%;top: 33%;}
 #star1 {height: 13%;}
-#star2 {width: 15%;top: -39%;margin-left: 17%;}
-#eyefp {height: 9%;margin-left: -38%;top: -33%;}
-#star3 {height: 11%;margin-left: 2%;top: -62%;}
-#voronoiright {height: 55%;top: -12%;left: 27.7%;}
-.voronoileft {height: 66%;top: -19%;}
-#footertext1, #footertext2, #footertext3, #footertext4, #footertext5, #footertext6 {font-size: 9px;}
-#textbase2 {left: 38%;}
-.ftxt {font-size: 45px;left: 87%;top: 1%;}
-.fcartinka {margin-left: 87%;margin-top: 8%;width: 5%;}
-.r {font-size: 65px;}
-.rtxt {margin-left: 11%;margin-top: -71%;}
+#star2 {width: 15%;top: -35%;margin-left: 17%;height: 17%;}
+#eyefp {height: 9%;margin-left: -45%;top: -29%;}
+#star3 {height: 10%;margin-left: 0%;top: -46%;}
+#voronoiright {height: 49%;top: -6%;left: 34.7%;}
+.voronoileft {height: 62%;top: -15%;width: 36%;}
+#footertext1, #footertext2, #footertext3, #footertext4, #footertext5, #footertext6 {font-size: 5px;}
+.ftxt {font-size: 22px;left: 87%;top: -5%;}
+.fcartinka {margin-left: 87%;margin-top: 9%;width: 5%;}
+.r {font-size: 37px;}
+.rtxt {margin-left: 11%;margin-top: -115%;}
 .rcartinka {margin-top: 31%;margin-left: 10%;width: 13%;}
-.iitxt {font-size: 55px;margin-top: -12%;left: 2%;}
-.t1 {font-size: 70px;}
-.t1cartinka {margin-left: 4%;margin-top: 19%;width: 15%;}
-.t1txt {margin-top: -47%;margin-left: 7.6%;}
-.e {font-size: 55px;}
-.etxt {margin-top: -213%;margin-left: -32%;}
-.ecartinka {margin-top: 165%;margin-left: -31%;width: 43%;}
-.t2 {font-size: 55px;}
-.t2txt {margin-top: -36%;margin-left: 45%;}
-.t2cartinka {margin-left: 41%;margin-top: 4.7%;width: 10%;}
-.t3 {font-size: 65px;}
-.t3txt {margin-top: -48.5%;}
-.t3cartinka {margin-left: -2.3%;margin-bottom: 4%;width: 12%;}
-.a {font-size: 60px;}
-.atxt {margin-top: -43%;margin-left: -2.1%;}
-.acartinka {width: 11%;margin-bottom: 4%;margin-left: -3%;}
-#strokeleft {height: 46%;left: 8.5%;bottom: -12.5%;}
-#strokecentral {height: 14%;left: -29.3%;bottom: -22.1%;}
-.sbl {left: 16.5%;top: -52%;border: 1.5px solid #000000;width: 1.1%;}
-.sbl1 {bottom: 151.8%;left: 17.5%;border: 1.5px solid #000000;}
-#fourstar {height: 33%;left: 3.3%;bottom: 36.9%;}
-#strokefooter {height: 35%;left: 29.9%;bottom: -12.5%;}
+.iitxt {font-size: 30px;margin-top: -33%;left: -2%;}
+.iicartinka {margin-bottom: 12%;margin-left: -4%;width: 8%;}
+.t1 {font-size: 45px;}
+.t1cartinka {margin-left: 2%;margin-bottom: 15%;width: 15%;}
+.t1txt {margin-top: -93%;margin-left: 5.5%;}
+.e {font-size: 35px;}
+.etxt {margin-top: -344%;margin-left: -22%;}
+.ecartinka {margin-top: 204%;margin-left: -31%;width: 43%;}
+.t2 {font-size: 28px;}
+.t2txt {margin-top: -71%;margin-left: 47%;}
+.t2cartinka {margin-left: 43.7%;margin-bottom: 16.5%;width: 10%;}
+.t3 {font-size: 35px;}
+.t3txt {margin-top: -85.5%;}
+.t3cartinka {margin-left: -3%;margin-bottom: 20%;width: 12%;}
+.a {font-size: 35px;}
+.atxt {margin-top: -77%;margin-left: 3%;}
+.acartinka {width: 9%;margin-bottom: 19%;margin-left: 2%;}
+#strokeleft {height: 41%;left: 8.5%;bottom: -25.5%;}
+#strokecentral {height: 14%;left: -25.3%;bottom: -33.1%;}
+.sbl {left: 16.2%;top: -38%;border: 1.5px solid #000000;width: 1.1%;}
+.sbl1 {bottom: 101%;left: 16.7%;border: 1.5px solid #000000;}
+#fourstar {height: 41%;left: 8.3%;bottom: -2.1%;}
+#strokefooter {height: 31%;left: 35.9%;bottom: -50.5%;}
 .ramka2qvadrat {display: none;}
 #ramka2 {display: none;}
-#arrowsmall1 {top: -65.4%;width: 8%;margin-left: 76.9%;}
-#arrowsmall2 {top: -66.4%;width: 8%;margin-left: 82.8%;}
-#arrowsmall3 {width: 8%;margin-left: 88.7%;top: -74.1%;}
-.arrowcircle1 {top: -48.9%;width: 6%;height: 8.7%;left: 83.25%;}
-.arrowcircle2 {top: -58.55%;width: 4.8%;height: 7.3%;left: 83.9%;}
-.arrowcircle3 {top: -67.5%;left: 84.9%;width: 3%;height: 7.3%;}
-#qvadrat1 {margin-top: 5.5%;}
-#arrowleft, #arrowright {bottom: -20%;width: 21%;height: 4.5%;}
-#voronoibottom {top: 4%;width: 37%;height: 55%;left: 31.7%;}
-#textbase5 {top: 50%;}
-#eyefp2 {height: 8%;}
-#textbase4 {left: 17%;top: 42.5%;}
-#strokecircle {width: 19%;bottom: 2.9%;}
-#strokecircleinside {width: 12%;height: 22%;left: -4.5%;bottom: 6.9%;}
-#eyesbase {margin-left: 45.9%;}
-.fourstarcircle {width: 3.9%;height: 5.7%;left: 30.35%;top: -79.3%;}
-.fourstarcircle1 {left: 11.5%;top: -0.65%;width: 2.5%;height: 6.5%;border: 2px solid #4078A7;}
-#greencrescent {height: 3.8%;left: 55.33%;bottom: 84%;}
-.sbb1 {bottom: 99.4%;left: 81.8%;border: 1px solid black;}
-.circle_bottom {width: 6%;height: 6.2%;left: 41.1%;bottom: 85%;}
-#textbase9 {top: 84%;}
-.sbc1 {border: 1px solid #519F75;left: 47.7%;top: -40.5%;}
-.sbc2 {border: 1px solid #EA1C1C;left: 57.7%;top: -32.7%;}
-.sbc3 {border: 1px solid #ECEF4D;left: 59.6%;top: -32.5%;}
-.sbc4 {border: 1px solid #C4929D;left: 52.1%;top: -33%;}
-.sbc5, .sbc6 {border: 1px solid black;}
-.sbc5 {left: 51.4%;top: -41.2%;}
-.sbc6 {left: 57.1%;top: -36%;}
-#eyes_white, #eyes_white1, #eyes_white2, #eyes_white3, #eyes_white4 {border: 1.5px solid white;}
-#eyesbase_circle, #eyesbase_circle2, #eyesbase_circle3, #eyesbase_circle4, #eyesbase_circle5, #eyesbase_circle6 {width: 0.5%;height: 1%;border: 2px solid black;}
-#eyesbase_circle {left: 59%;top: -93.6%;}
-#eyes_white {left: 59.1%;top: -95%;}
-#eyesbase_circle2 {left: 51.4%;top: -96.1%;}
-#eyes_white1 {left: 51.7%;top: -97.6%;}
-#eyesbase_circle5 {left: 50.3%;top: -95.4%;}
-#eyes_white4 {left: 50.6%;top: -97%;}
-#eyesbase_circle3 {left: 49.4%;top: -95.2%;}
-#eyes_white2 {left: 49.6%;top: -97%;}
-#eyesbase_circle4 {left: 53%;top: -97.9%;}
-#eyes_white3 {left: 53.3%;top: -99.5%;}
-#textbase10 {left: 32%;top: 30%;}
-.sbb2 {left: 34.8%;bottom: -16.5%;border: 2px solid #ECEF4D;}
-.sbb3 {border: 2px solid #C4929D;left: 44.2%;bottom: -1.5%;}
-.sbb4 {border: 2px solid black;left: 47.1%;bottom: -9.5%;}
-.sbb5 {border: 2px solid black;left: 71.1%;bottom: -7.5%;}
-.sbb6 {border: 2px solid #EA1C1C;left: 86.8%;bottom: -3.5%;}
-#footertext1 {left: 1.5%;bottom: 40.5%;}
-#footertext2 {left: 43.4%;bottom: 41%;}
-#footertext3 {left: 88.5%;bottom: 41.3%;}
-#footertext4 {bottom: 30.2%;}
-#footertext5 {left: 51%;bottom: 29.5%;}
-#footertext6 {left: 91%;bottom: 29.5%;}
-#textbase8 {top:62%;}
+#arrowsmall1 {top: -61.4%;width: 8%;margin-left: 77.9%;}
+#arrowsmall2 {top: -65.6%;width: 8%;margin-left: 83.3%;}
+#arrowsmall3 {width: 8%;margin-left: 88.7%;top: -78.1%;}
+.arrowcircle1 {top: -41.9%;width: 6%;height: 8.7%;left: 83%;}
+.arrowcircle2 {top: -52.8%;width: 4.8%;height: 7.3%;left: 83.6%;}
+.arrowcircle3 {top: -62.8%;left: 84.55%;width: 3%;height: 7.3%;}
+#qvadrat1 {margin-top: 2.5%;}
+#arrowleft, #arrowright {bottom: -15%;width: 21%;height: 4.5%;}
+#voronoibottom {top: 9%;width: 37%;height: 49%;left: 35.7%;}
+#textbase5 {top: 53%;left: 68%;}
+#eyefp2 {height: 8%;left: -47%;top: 40%;}
+#textbase4 {left: 14%;top: 44.5%;}
+.sbb1, #greencrescent, #strokecircle {display: none;}
+#strokecircleinside {width: 16%;height: 33%;left: 16%;bottom: -38.1%;}
+.fourstarcircle {width: 5.1%;height: 8%;left: 36.9%;top: -31.5%;border: 1px solid #ECEF4D;}
+.fourstarcircle1 {left: 14.3%;top: 4.4%;width: 3.3%;height: 7.7%;border: 1px solid #4078A7;}
+.circle_bottom {width: 5.5%;height: 7.5%;left: 42.6%;bottom: 49.5%;}
+#textbase9 {top: 86%;left: 69%;}
+.sbc1 {border: 1px solid #519F75;left: 44.7%;top: -25.9%;}
+.sbc2 {border: 1px solid #EA1C1C;left: 55%;top: -18.4%;}
+.sbc3 {border: 1px solid #ECEF4D;left: 56.7%;top: -18.2%;}
+.sbc4 {border: 1px solid #C4929D;left: 49.1%;top: -19%;}
+.sbc5 {border: 1px solid black;left: 48.2%;top: -27.6%;}
+.sbc6 {border: 1px solid black;left: 54.1%;top: -23.2%;}
+#eyes_white, #eyes_white1, #eyes_white2, #eyes_white3, #eyes_white4, #eyesbase, #eyesbase_circle, #eyesbase_circle2, #eyesbase_circle3, #eyesbase_circle4, #eyesbase_circle5, #eyesbase_circle6 {display: none;}
+#textbase10 {left: 41%;top: 30%;}
+.sbb2 {left: 43.8%;bottom: -14.5%;border: 1.5px solid #ECEF4D;}
+.sbb3 {border: 1.5px solid #C4929D;left: 51.7%;bottom: -1.1%;}
+.sbb4 {border: 1.5px solid black;left: 56.2%;bottom: -9.5%;}
+.sbb5 {border: 1.5px solid black;left: 74.6%;bottom: -18.5%;}
+.sbb6 {border: 1.5px solid #EA1C1C;left: 89.6%;bottom: -0.2%;}
+#footertext1 {left: 2%;bottom: 35.6%;}
+#footertext2 {left: 43.7%;bottom: 35.55%;}
+#footertext3 {left: 88.9%;bottom: 34.6%;}
+#footertext4 {bottom: 22.6%;left: 2%;}
+#footertext5 {left: 51%;bottom: 21.5%;}
+#footertext6 {left: 91.3%;bottom: 21.5%;}
+#textbase8 {top:68%;}
 #qvadrat1, #qvadrat2, #qvadrat3, #qvadrat4 {border: 1.5px solid #000000;}
+#qvadrat1, #qvadrat2, #qvadrat3 {height: 8%;}
 }
